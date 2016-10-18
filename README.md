@@ -1,5 +1,5 @@
-# Object Calisthenics
+# Pourquoi-symfony-silex
 
 ```
-$ git clone git://github.com/maxpou-slides/pourquoi-symfony-silex --recursive
+$ git clone https://github.com/maxpou-slides/pourquoi-symfony-silex --recursive
 ```
